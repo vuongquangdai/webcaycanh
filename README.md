@@ -22,3 +22,6 @@ Quy trình hoạt động của hệ thống được thiết kế rõ ràng v�
 - **Quản lý sản phẩm:** Cho phép Admin quản lý danh mục sản phẩm với các thao tác thêm, sửa, xóa và hiển thị danh sách sản phẩm một cách trực quan.
 - **Xử lý giỏ hàng:** Người dùng có thể thêm sản phẩm vào giỏ, cập nhật số lượng hoặc loại bỏ sản phẩm, đồng thời theo dõi tổng tiền.
 - **Thanh toán:** Hệ thống tạo đơn hàng từ giỏ hàng hoặc qua chức năng “mua ngay”, chuyển hướng thanh toán qua VNPay và cập nhật trạng thái đơn hàng sau khi giao dịch thành công.
+
+## Demo video
+📺 [Xem video demo tại đây](https://youtu.be/LLpI7fyQ0Uo)
